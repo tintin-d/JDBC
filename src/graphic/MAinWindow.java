@@ -172,7 +172,6 @@ public class MAinWindow {
 		panel_5.add(btnReset);
 		
 		
-		//test
 		JButton btnQuit = new JButton("Quit");
 		btnQuit.setForeground(Color.RED);
 		btnQuit.setBackground(Color.WHITE);
