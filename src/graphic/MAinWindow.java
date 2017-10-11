@@ -27,6 +27,7 @@ import javax.swing.JMenuItem;
 public class MAinWindow {
 
 	private JFrame frame;
+	//TEST
 	private JLabel lab1,lab2;
 	private JTextField field1, field2;
 	private JTextField textField;
