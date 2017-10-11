@@ -186,6 +186,7 @@ public class MAinWindow {
 		panel_3.setBackground(Color.GRAY);
 		panel_3.setLayout(new GridLayout(0, 1, 0, 0));
 		
+		
 		JCheckBox chckbxAutocommit = new JCheckBox("AutoCommit");
 		chckbxAutocommit.setBackground(Color.LIGHT_GRAY);
 		panel_3.add(chckbxAutocommit);
